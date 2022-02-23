@@ -1,0 +1,9 @@
+Website Ini Masih Dalam Tahap Perbaikan
+
+1. Website Ini masih dalam tahap pengembangan untuk Select Option ALamat.
+2. Data Alamat Di Provinsi Jawa Tengah Kebawah Masih Salah
+3. Website Ini masih memakan resource yang banyak akibat data alamat.
+4. Sebaiknya data alamat menggunakan API 
+5. Website yang dipakai ini masih mengguanakan select option alamat,
+6. Sedangkan yang dipakai nanti untuk sementara tidak memakai select option alamat.
+
